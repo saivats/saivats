@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hi there! 👋
+I'm **Saivats**, a passionate developer from **India**.
+
+## 🛠️ Skills
+- **Languages**: Python, Java
+
+## 🌟 Projects
+- **Spill Bill**: A QR-based billing system for small institutions.
+
+## 📫 Contact Me
+- *Add your contact details here (email, LinkedIn, etc.)*
+
+## 🌱 Interests
+- **Reading**
+- **Playing Sports**
+
 
 <!--
 **saivats/saivats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
