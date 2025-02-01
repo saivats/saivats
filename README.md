@@ -8,7 +8,7 @@ I'm **Saivats**, a passionate developer from **India**.
 - **Spill Bill**: A QR-based billing system for small institutions.
 
 ## 📫 Contact Me
-- *Add your contact details here (email, LinkedIn, etc.)*
+- Please add your Contact details here 
 
 ## 🌱 Interests
 - **Reading**
