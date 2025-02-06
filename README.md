@@ -8,7 +8,8 @@ I'm **Saivats**, a passionate developer from **India**.
 - **Spill Bill**: A QR-based billing system for small institutions.
 
 ## 📫 Contact Me
-- *Add your contact details here (email, LinkedIn, etc.)*
+- *📪 LINKEDIN: www.linkedin.com/in/saivats*
+- *📧GMAIL: saivatsias@gmail.com*
 
 ## 🌱 Interests
 - **Reading**
