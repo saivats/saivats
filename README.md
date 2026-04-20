@@ -1,95 +1,126 @@
+<h1 align="center">Saivats Raj</h1>
+
 <p align="center">
-  <img src="./pic.png" width="100%" />
+Systems Builder<br/>
+हर Samasya has a Repo.
 </p>
 
+<br/>
+
 ---
 
-## About
+## 🧠 What I Do
 
 I build systems that solve real problems — with clarity, structure, and intent.
-The goal is not complexity, but reliability.
+Not everything needs to be complex. It needs to work.
+
+<br/>
 
 ---
 
-## Focus
+## ⚙️ Current Focus
 
-* Building products that work in real environments
+* Building products used in real environments
 * Designing backend systems that scale cleanly
 * Applying AI where it creates actual value
 
----
-
-## Work
-
-### Restron
-
-A restaurant operating system used in real environments.
-Manages ordering, kitchen workflows, and day-to-day operations.
+<br/>
 
 ---
 
-### DigiKul
+## 🚀 Selected Work
 
-An education platform designed for low-bandwidth environments.
-Built with accessibility and real constraints in mind.
+<div align="center">
+
+<table>
+<tr>
+<td width="33%">
+
+### 🍽️ Restron
+
+Production-grade restaurant system
+Used in real environments
+
+</td>
+
+<td width="33%">
+
+### 📚 DigiKul
+
+Low-bandwidth education platform
+Built for accessibility
+
+</td>
+
+<td width="33%">
+
+### 🚦 Urban Pulse
+
+ML-based traffic intelligence
+Prediction + optimization
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 ---
 
-### Urban Pulse
+## 🛠️ Stack
 
-A traffic intelligence system using machine learning.
-Focused on prediction and smarter routing.
+<div align="center">
 
----
-
-## Stack
-
-**Languages**
 Python · Java · JavaScript
-
-**Backend**
-FastAPI · Flask · APIs · System Design
-
-**Tools**
+FastAPI · Flask · APIs
 Git · Linux · Firebase
 
+</div>
+
+<br/>
+
 ---
 
-## Activity
+## 📊 Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=saivats&show_icons=true&theme=transparent" height="150"/>
+<img src="https://streak-stats.demolab.com/?user=saivats&theme=transparent" height="150"/>
+
+</div>
+
+<br/>
+
+---
+
+## 📈 Activity
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
+<br/>
+
 ---
 
-## Metrics
+## 🤝 Contact
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=saivats&show_icons=true&theme=transparent"/>
-
-<img height="170em" src="https://streak-stats.demolab.com/?user=saivats&theme=transparent"/>
+LinkedIn: https://www.linkedin.com/in/saivats
+Email: [saivatsias@gmail.com](mailto:saivatsias@gmail.com)
 
 </div>
 
----
-
-## Contributions
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saivats&theme=github-compact"/>
-
----
-
-## Connect
-
-* LinkedIn: https://www.linkedin.com/in/saivats
-* Email: [saivatsias@gmail.com](mailto:saivatsias@gmail.com)
+<br/>
 
 ---
 
 <div align="center">
 
-*हर Samasya has a Repo.*
+I build things that work in the real world.
 
 </div>
