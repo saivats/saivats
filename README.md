@@ -5,28 +5,29 @@ Systems Builder<br/>
 हर Samasya has a Repo.
 </p>
 
+<h1 align="center">Saivats Raj</h1>
+
+<p align="center">
+Systems Builder<br/>
+हर Samasya has a Repo.
+</p>
+
 <br/>
 
----
-
-## 🧠 What I Do
+## 🧠 Approach
 
 I build systems that solve real problems — with clarity, structure, and intent.
-Not everything needs to be complex. It needs to work.
+The goal is not complexity. The goal is reliability.
 
 <br/>
 
----
-
-## ⚙️ Current Focus
+## ⚙️ Focus
 
 * Building products used in real environments
 * Designing backend systems that scale cleanly
 * Applying AI where it creates actual value
 
 <br/>
-
----
 
 ## 🚀 Selected Work
 
@@ -67,8 +68,6 @@ Prediction + optimization
 
 <br/>
 
----
-
 ## 🛠️ Stack
 
 <div align="center">
@@ -81,8 +80,6 @@ Git · Linux · Firebase
 
 <br/>
 
----
-
 ## 📊 Metrics
 
 <div align="center">
@@ -94,8 +91,6 @@ Git · Linux · Firebase
 
 <br/>
 
----
-
 ## 📈 Activity
 
 <!--START_SECTION:activity-->
@@ -104,9 +99,7 @@ Git · Linux · Firebase
 
 <br/>
 
----
-
-## 🤝 Contact
+## 🤝 Connect
 
 <div align="center">
 
@@ -116,8 +109,6 @@ Email: [saivatsias@gmail.com](mailto:saivatsias@gmail.com)
 </div>
 
 <br/>
-
----
 
 <div align="center">
 
